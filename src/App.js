@@ -1,9 +1,8 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
-import Layout from "./components/layout";
-import Home from "./pages/home";
-import Success from "./pages/success";
+import Layout from "./components/Layout";
+import Home from "./pages/Home/Home";
+import Success from "./pages/Success/Success";
 
 import "./App.css";
 
